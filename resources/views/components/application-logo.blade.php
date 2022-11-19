@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/nishat.jpg')}}" width="100px">
